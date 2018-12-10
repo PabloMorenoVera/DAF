@@ -1,0 +1,44 @@
+$AWR Design Environment
+$Version 10.08r build 6146 Rev1 (85888)
+$Export time : Mon Dec 10 19:49:10 2018
+$Export Format: Gerber
+$Export File Name: \\myappsdrive.alumnos.urjc.es\Home_VDI$\p.morenov\Desktop\Filtro\Filtro_Microstrip_Copper.ger
+
+
+
+Statistics Of Layers
+
+Drawing Layer       File Layer           Layer DataType Rects Polygons  Paths Ellipses Texts Pins Drillholes
+------------------------------------------------------------------------------------------------------------
+Annotation          N/A                   13        0     0         0     0        0     0    0         0
+Copper              N/A                    0        0     0         1     0        0     0    0         0
+Copper_Bottom       N/A                    1        0     0         0     0        0     0    0         0
+
+
+Summary Of Objects
+------------------
+         0 Rects     
+         1 Polygons  
+         0 Paths     
+         0 Texts     
+         0 Ellipses  
+         0 Instances 
+         0 Arrays    
+         0 Pins      
+         0 Drillholes
+
+
+Export Options
+--------------
+Draw path as polygon: 1
+Export pcell instances as cells: 0
+Export subcircuits as cells: 1
+Flatten cell hierarchy: 1
+Merge polygons on the +/- layers: 1
+Union polygons on the same layer: 1
+Write Cell using cached geometry: 0
+Write out pcell parameter maps: 0
+
+
+*** There were 0 warning and 0 error messages ***
+
